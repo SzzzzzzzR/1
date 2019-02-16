@@ -1,4 +1,4 @@
-token=NDI0OTA3OTAwMTU1MDY4NDM0.D0lROw.-gqYP6I1fBA0cbLUyu1pLzhFXYs
+token=NTEzMjUzMTI5MjMyMzE4NDY0.D0mWwg.pvglLLBjZWbRJWrI0fgdVxLfOXs
 owner= 290819338829824000 
 prefix= Y
 game= Tyep Yhelp
